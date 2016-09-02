@@ -21,6 +21,7 @@ Undergraduate Students
 * Andrea Urueta, [andreamu17](https://github.com/andreamu17)
 * Rigoberto Rodriguez, [rigorodriguez95] (https://github.com/rigorodriguez95)
 * Rebecca Sontheimer, [sont89](https://github.com/sont89)
+* Jacob Geller, [cobygeller](https//github.com/cobygeller)
 
 Faculty Members
 
