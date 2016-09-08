@@ -32,6 +32,7 @@ Undergraduate Students
 * Josh Thompson, [josht6](https://github.com/josht6)
 * Andrea Urueta, [andreamu17](https://github.com/andreamu17)
 * John Vetus, [jvetus](https://github.com/jvetus)
+* Michael Walker, [mgwalker95](https://github.com/mgwalker95)
 * Josh Zschiesche, [JoshZschiesche](https://github.com/JoshZschiesche)
 * Sergio Pineda, [sebastianpineda](https://github.com/sebastianpineda)
 * Malik Aldabbagh, [alda836](https://github.com/alda836)
