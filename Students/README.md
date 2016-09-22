@@ -21,7 +21,7 @@ Undergraduate Students
 * Christopher Galik, [Chrisgalik](https://github.com/Chrisgalik)
 * Rolando Gamboa, [rolando16](https://github.com/rolandog16)
 * Jacob Geller, [cobygeller](https://github.com/cobygeller)
-* Juan Gomez
+* Juan Gomez, [juanigomez95](https://github.com/juanigomez95)
 * Aaron Ingram, [aaronaingram](https://github.com/aaronaingram)
 * Dillon Johnson, [dillonjohnson48](https://github.com/dillonjohnson48)
 * Gregory A Jordan, [slab-bulkhead](https://github.com/slab-bulkhead)
